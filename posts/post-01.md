@@ -1,17 +1,16 @@
 ---
-title: my first essay
-date: 2026-10-27
-summary: one line that shows up on the blog list page.
+title: test
+date: 2026-10-30
+summary: test summary
 ---
 
-start writing here. leave a blank line between paragraphs.
+writing here
 
-## this makes a heading
+## heading
 
-you can make words **bold** or *italic*, and add [a link](https://example.com).
+**bold** *italic* [a link](ezrakendall.github.io)
+> quote
 
-> a line that starts with this symbol becomes a quote.
+images/blog/
 
-add a photo by putting the file in images/blog/ and writing:
-
-![a short description](images/blog/my-photo.jpg)
+![a short description](images/blog/DSCF9584.JPG)
